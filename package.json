@@ -52,6 +52,7 @@
     "webpack-dev-middleware": "^1.12.0",
     "webpack-hot-middleware": "^2.20.0",
     "webpack-merge": "^4.2.1",
+    "sabre-dev-studio": "^1.2.0", 
     "webpack-node-externals": "^1.7.2"
   }
 }
